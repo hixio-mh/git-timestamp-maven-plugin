@@ -68,7 +68,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <project.build.outputEncoding>UTF-8</project.build.outputEncoding>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.version>3.0.5</maven.version>
+    <maven.version>3.5.0</maven.version>
     <maven.scm.version>1.9.5</maven.scm.version>
   </properties>
 
